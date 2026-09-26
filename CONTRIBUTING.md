@@ -28,7 +28,7 @@ This adds a `Signed-off-by: Your Name <your.email@example.com>` line to your com
 ## Reporting bugs vs. asking for help
 
 - **Found a bug?** Open an issue using the Bug Report template.
-- **Need help using Ophix?** Please use [paid support](https://support.ophix.io) rather than opening an issue — issues here are for defects and feature requests, not usage questions.
+- **Need help using Ophix?** Please use [paid support](https://ophix.io/contact) rather than opening an issue — issues here are for defects and feature requests, not usage questions.
 
 ## Pull requests
 

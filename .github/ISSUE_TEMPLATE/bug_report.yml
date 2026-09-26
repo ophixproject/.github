@@ -8,7 +8,7 @@ body:
       value: |
         Thanks for taking the time to report a bug — community bug reports are genuinely welcome and help everyone using Ophix.
 
-        This is free, MIT-licensed software provided with no warranty — there's no guaranteed fix or response time for issues filed here. If you need help *using* Ophix rather than reporting a defect, please use [paid support](https://support.ophix.io) instead of filing an issue.
+        This is free, MIT-licensed software provided with no warranty — there's no guaranteed fix or response time for issues filed here. If you need help *using* Ophix rather than reporting a defect, please use [paid support](https://ophix.io/contact) instead of filing an issue.
   - type: input
     id: package
     attributes:
